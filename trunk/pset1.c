@@ -1,4 +1,4 @@
-this is pset 1
+here comes a conflict
 
 more lines changed
 
